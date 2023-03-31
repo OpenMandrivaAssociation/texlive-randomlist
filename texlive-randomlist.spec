@@ -1,6 +1,6 @@
 Name:		texlive-randomlist
 Version:	45281
-Release:	1
+Release:	2
 Summary:	Deal with database, loop, and random in order to build personalized exercises
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/randomlist
